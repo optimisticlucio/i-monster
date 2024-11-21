@@ -1,0 +1,10 @@
+count, name, cost, alliance, description
+2, "Daily Commute", 0, "Fly - Baseline Deck", "Gain 1 Intrigue, draw a card."
+1, "Feign Ignorance", 0, "Fly - Baseline Deck", "Erase a shop card, lower your Suspicion by 2."
+1, "Black Hole Sun", 12, "Cultist - Influence Deck", "Win the game. If this card is Erased, return it to the Main Deck and shuffle it."
+1, "Misplaced Blame", 0, "Shapeshifter - Baseline Deck", "Erase your play area, raise the opponent's suspicion by 2 for each card erased."
+4, "Calm Afternoon", 4, "Main Deck", "Gain 1 Intrigue, draw a card."
+2, "Space Out", 1, "Main Deck", "Draw a card."
+1, "Gaslight", 2, "Main Deck", "Discard your play area, lower your Suspicion by 2."
+2, "Risky Move", 2, "Main Deck", "Gain 3 Intrigue and 3 Suspicion."
+1, "Move On", 0, "Ghost - Baseline Deck", "Erase your hand. If you have no cards, win the game."
