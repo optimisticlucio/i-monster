@@ -1,0 +1,24 @@
+name: Run nanDECK and Upload Export
+
+on:
+  push
+
+jobs:
+  run-nandeck:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Run nanDECK
+      run: |
+        .\nandeck\nanDECK.exe "\nandeck\card-deck.txt"
+      shell: cmd
+
+    - name: Upload Export Folder
+      uses: actions/upload-artifact@v3
+      with:
+        name: nandeck-export
+        path: nandeck/export
+        retention-days: 1
