@@ -13,7 +13,7 @@ jobs:
 
     - name: Run nanDECK
       run: |
-        .\nandeck\nanDECK.exe "\nandeck\card-deck.txt"
+        .\nandeck\nanDECK.exe .\nandeck\card-deck.txt /exec
       shell: cmd
 
     - name: Upload Export Folder
