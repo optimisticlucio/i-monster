@@ -9,7 +9,7 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout
+      uses: actions/checkout@v4
 
     - name: Run nanDECK
       run: |
@@ -17,7 +17,7 @@ jobs:
       shell: cmd
 
     - name: Upload Export Folder
-      uses: actions/upload-artifact
+      uses: actions/upload-artifact@v4
       with:
         name: nandeck-export
         path: nandeck/export
