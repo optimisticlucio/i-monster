@@ -10,7 +10,7 @@ You and another target have nothing personal against eachother, but it’s now w
 
 ## Summarized Rules
 
-A 2-player deckbuilder where at the start of the game, each player picks a character that changes their starting deck and the main deck's contents. Both players seek to raise eachother's *Suspicion*, where if it reaches [some value, 20?], the player in question loses. To do so they'll modify and improve their deck until only one abnormality remains standing.
+A 2-player deckbuilder where at the start of the game, each player picks a character that changes their starting deck and the main deck's contents. Both players seek to raise eachother's *Suspicion*, where if it reaches 20, the player in question loses. To do so they'll modify and improve their deck until only one abnormality remains standing.
 
 ## Characters
 
@@ -22,7 +22,7 @@ A 2-player deckbuilder where at the start of the game, each player picks a chara
 ## Setup & Gameplay
 
 1. When the game begins, each player selects a different character. In case both players want the same character, both players select a "backup" character (may be the same) and toss a coin to decide who gets the original choice.
-2. Once the choices are made, add each character's Influence Deck to the Main Deck, and create a personal deck for each player by combining their character's Baseline Deck with `[some basic deck setup I'll decide on later]`. Each player starts with 0 Suspicion.
+2. Once the choices are made, add each character's Influence Deck to the Main Deck, and create a personal deck for each player by combining their character's Baseline Deck with the Universal Baseline Deck: 5 Mild Curiosity, 2 Mob Justice. Each player starts with 0 Suspicion.
 3. Shuffle the Main Deck and both players' personal decks, and place the top 5 cards from the Main Deck in some place that's accessible and visible to both players; these cards are now [the shop?]. Both players draw 5 cards from their decks to their hands.
 4. Choose who goes first by tossing a coin or intense argument.
 5. Each player, in turn, takes their turn:
@@ -30,7 +30,7 @@ A 2-player deckbuilder where at the start of the game, each player picks a chara
     - To purchase a card, a player must first have enough Intrigue, which is gained through specific cards in your deck. If you have enough, you place the chosen card in your discard pile, replace the removed card with the top card of the Main Deck, and reduce your current Intrigue by the card's cost.
     - If a player chooses to end their turn, they must discard their hand and playing deck into the discard pile, which is face-up and can be browsed by all players. Their Intrigue is set to 0. Afterwards, they draw 5 cards from their deck, and the other player begins their turn.
     - If a player needs to draw a card from their deck, but their deck has no cards in it, shuffle the player's discard pile, place it face-down, and use it as their new deck.
-6. If any player reaches [20?]+ suspicion at the end of either player's turn, they lose.
+6. If any player reaches 20+ suspicion at the end of either player's turn, they lose.
 
 If there's conflict between the rules and the card effects, follow the card effects' description.
 
@@ -38,3 +38,4 @@ If there's conflict between the rules and the card effects, follow the card effe
 
 - **Erase:** Remove a card from the game. It does not matter where you place it, it will not return to this match.
 - **Discard:** Place a card into your discard pile.
+- **Inflict/Reduce Suspicion:** Inflict means to increase the opponent's suspicion by the relevant value. Reduce is to lower your own.

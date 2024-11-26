@@ -1,16 +1,16 @@
 count,name,cost,alliance,img,description
-1,Black Hole Sun,12,Cultist - Influence Deck,bh.jpg,"Win the game. If this card is Erased, return it to the Main Deck and shuffle it."
+1,Black Hole Sun,10,Cultist - Influence Deck,bh.jpg,"Win the game. If this card is Erased, return it to the Main Deck and shuffle it."
 2,A Small Cost,2,Cultist - Influence Deck,rat_snake.jpg,"Gain 2 Influence, erase a card in your hand."
-2,Rich Get Richer,4,Cultist - Influence Deck,monopoly_man.webp,Gain 1 Influence for each card in your play area.
+2,Rich Get Richer,5,Cultist - Influence Deck,monopoly_man.webp,Gain 1 Influence for each card in your play area.
 3,Look the Other Way,2,Cultist - Influence Deck,distraction.jpg,"Erase a shop card, draw a card."
-4,Keep Looking,3,Cultist - Influence Deck,this_is_worthless.jpg,"When gained, erase this card and all shop cards."
+4,Keep Looking,2,Cultist - Influence Deck,this_is_worthless.jpg,"When gained, erase this card and all shop cards."
 2,Daily Commute,0,Fly - Baseline Deck,jjk_train.jpg,"Gain 1 Intrigue, draw a card."
 1,Feign Ignorance,0,Fly - Baseline Deck,feign-ignorance.webp,"Erase a shop card, reduce 2 Suspicion."
 2,Baseless Rumor,3,Fly - Influence Deck,infowars.jpg,Inflict 1 Suspicion for each time you've played Baseless Rumor.
 3,Investing in Yourself,3,Fly - Influence Deck,spa.jpg,"Erase a card in your play area, draw a card."
-2,He Who Smelt It,3,Fly - Influence Deck,,"If your suspicion is >20, reduce and inflict 4 suspicion."
-3,Last Affairs,4,Fly - Influence Deck,,Draw a card. Draw another for every 10 suspicion you have.
-4,Small Favor,1,Fly - Influence Deck,,"Gain 3 Influence, erase this card."
+2,He Who Smelt It,3,Fly - Influence Deck,,Reduce and Inflict 1 Suspicion for every 5 Suspicion you have.
+3,Last Affairs,4,Fly - Influence Deck,,Draw a card. Draw another for every 5 suspicion you have.
+4,Small Favor,1,Fly - Influence Deck,,"Gain 3 Intrigue, erase this card."
 1,Move On,0,Ghost - Baseline Deck,ddd-7.webp,"Erase your hand. If you have no cards, win the game."
 2,Earthly Affairs,0,Ghost - Baseline Deck,,"Gain 2 Intrigue. If erased, draw 2 cards."
 4,Fleeting Memories,1,Ghost - Influence Deck,,"Draw 2 cards, erase this card."
@@ -34,3 +34,11 @@ count,name,cost,alliance,img,description
 1,Whatever You Want Me To Be,0,Shapeshifter - Baseline Deck,,"Gain 1 Intrigue, reduce Suspicion by 1, and draw a card."
 1,Misplaced Blame,0,Shapeshifter - Baseline Deck,he_coordination.webp,"Erase your play area, Inflict 2 Suspicion for each card erased."
 1,Learn and Adapt,0,Shapeshifter - Baseline Deck,lets-go-gambling.webp,Erase a card in your hand. Gain the top card of the main deck.
+5,Mild Curiosity,1,Baseline Deck,huh_neat.jpg,Gain 1 Intrigue.
+2,Mob Justice,1,Baseline Deck,the_mob_song.jpg,Inflict 1 Suspicion.
+4,[NAME ME],2,Main Deck,,"Erase a card from your play area, inflict 2 Suspicion."
+1,Keep Talking,5,Main Deck,,"Every time you play a card this turn, Reduce 1 Suspicion."
+3,[TO NAME],4,Main Deck,,Inflict 3 Suspicion.
+1,Sacrifice,0,Cultist - Baseline Deck,,"Erase a card in your hand. Gain a card that costs up to 2 more, if possible."
+1,Necromancy,0,Cultist - Baseline Deck,,Discard a card. Draw a card from your discard pile.
+1,Underling,0,Cultist - Baseline Deck,,"Inflict 1 Suspicion. If this is Erased or Discarded, draw a card."
