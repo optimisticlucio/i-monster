@@ -36,9 +36,9 @@ count,name,cost,alliance,img,description
 1,Learn and Adapt,0,Shapeshifter - Baseline Deck,lets-go-gambling.webp,Erase a card in your hand. Gain the top card of the main deck.
 5,Mild Curiosity,1,Baseline Deck,huh_neat.jpg,Gain 1 Intrigue.
 2,Mob Justice,1,Baseline Deck,the_mob_song.jpg,Inflict 1 Suspicion.
-4,[NAME ME],2,Main Deck,,"Erase a card from your play area, inflict 2 Suspicion."
+4,NAME CARD,2,Main Deck,,"Erase a card from your play area, inflict 2 Suspicion."
 1,Keep Talking,5,Main Deck,,"Every time you play a card this turn, Reduce 1 Suspicion."
-3,[TO NAME],4,Main Deck,,Inflict 3 Suspicion.
+3,TO NAME,4,Main Deck,,Inflict 3 Suspicion.
 1,Sacrifice,0,Cultist - Baseline Deck,,"Erase a card in your hand. Gain a card that costs up to 2 more, if possible."
 1,Necromancy,0,Cultist - Baseline Deck,,Discard a card. Draw a card from your discard pile.
 1,Underling,0,Cultist - Baseline Deck,,"Inflict 1 Suspicion. If this is Erased or Discarded, draw a card."
