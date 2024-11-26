@@ -5,13 +5,13 @@ count,name,cost,alliance,img,description
 3,Look the Other Way,2,Cultist - Influence Deck,distraction.jpg,"Erase a shop card, draw a card."
 4,Keep Looking,3,Cultist - Influence Deck,this_is_worthless.jpg,"When gained, erase this card and all shop cards."
 2,Daily Commute,0,Fly - Baseline Deck,jjk_train.jpg,"Gain 1 Intrigue, draw a card."
-1,Feign Ignorance,0,Fly - Baseline Deck,feign-ignorance.webp,"Erase a shop card, reduce Suspicion by 2."
+1,Feign Ignorance,0,Fly - Baseline Deck,feign-ignorance.webp,"Erase a shop card, reduce 2 Suspicion."
 2,Baseless Rumor,3,Fly - Influence Deck,infowars.jpg,Inflict 1 Suspicion for each time you've played Baseless Rumor.
 3,Investing in Yourself,3,Fly - Influence Deck,spa.jpg,"Erase a card in your play area, draw a card."
 2,He Who Smelt It,3,Fly - Influence Deck,,"If your suspicion is >20, reduce and inflict 4 suspicion."
 3,Last Affairs,4,Fly - Influence Deck,,Draw a card. Draw another for every 10 suspicion you have.
 4,Small Favor,1,Fly - Influence Deck,,"Gain 3 Influence, erase this card."
-1,Move On,0,Ghost - Baseline Deck,ddd-7.webp,"Erase your hand. If you have no cards,  win the game."
+1,Move On,0,Ghost - Baseline Deck,ddd-7.webp,"Erase your hand. If you have no cards, win the game."
 2,Earthly Affairs,0,Ghost - Baseline Deck,,"Gain 2 Intrigue. If erased, draw 2 cards."
 4,Fleeting Memories,1,Ghost - Influence Deck,,"Draw 2 cards, erase this card."
 6,Unusually Uninteresting,3,Main Deck,sonic_neat.jpg,Gain 2 Intrigue.
@@ -20,16 +20,17 @@ count,name,cost,alliance,img,description
 3,A Moment of Solace,2,Main Deck,heh_women.jpg,Draw 2 cards. Opponent draws a card.
 3,Wonder of Nature,5,Main Deck,infinite_corridor.webp,Gain 3 Intrigue.
 2,Risky Move,2,Main Deck,darkwing_duck.png,Gain 3 Intrigue and 3 Suspicion.
-2,Maximum Effort,6,Main Deck,okarun_dash.avif,Draw 3 cards.
-2,You're Overthinking Things,2,Main Deck,,"Discard your play area, reduce Suspicion by 2."
+2,Maximum Effort,6,Main Deck,okarun_dash.png,Draw 3 cards.
+2,You're Overthinking Things,2,Main Deck,,"Discard your play area, reduce 2 Suspicion."
 3,Reconsider,2,Main Deck,yoru_stupid.webp,"Draw 2 cards, discard a card."
-3,Keep Up Appearances,3,Main Deck,two_faced_creep.jpg,Reduce Suspicion by 3.
+3,Keep Up Appearances,3,Main Deck,two_faced_creep.jpg,Reduce 3 Suspicion.
 2,Bold Move,4,Main Deck,this_is_fine.jpg,"All Suspicion raises by 4, draw two cards."
 1,Paranoia,6,Main Deck,stress_dd.jpg,"Every time you play a card this turn, Inflict 1 Suspicion."
 4,Space Out,1,Main Deck,still_watching.jpg,Draw a card.
 2,Believe in Magic,4,Main Deck,arcanes1e3.png,Gain 1 Intrigue for every 5 Suspicion you have.
 3,Ding Dong Ditch,3,Main Deck,,"When gained, put in opponent's discard pile. Does nothing."
 3,Cover Tracks,3,Main Deck,,Erase 2 cards in your discard pile.
+3,New Me,2,Main Deck,,"Erase a card from your hand, discard pile, and shop. Reduce 2 Suspicion."
 1,Whatever You Want Me To Be,0,Shapeshifter - Baseline Deck,,"Gain 1 Intrigue, reduce Suspicion by 1, and draw a card."
 1,Misplaced Blame,0,Shapeshifter - Baseline Deck,he_coordination.webp,"Erase your play area, Inflict 2 Suspicion for each card erased."
 1,Learn and Adapt,0,Shapeshifter - Baseline Deck,lets-go-gambling.webp,Erase a card in your hand. Gain the top card of the main deck.
