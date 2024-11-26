@@ -32,7 +32,7 @@ count,name,cost,alliance,img,description
 2,Bold Move,4,Main Deck,this_is_fine.jpg,"All Suspicion raises by 2, draw two cards."
 1,Paranoia,6,Main Deck,stress_dd.jpg,"Every time you play a card this turn, Inflict 1 Suspicion."
 4,Space Out,1,Main Deck,still_watching.jpg,Draw a card.
-2,Believe in Magic,4,Main Deck,arcanes1e3.png,Gain 1 Intrigue for every 5 Suspicion you have.
+2,Believe in Magic,4,Main Deck,arcanes1e3.png,Gain 1 Intrigue for every 4 Suspicion you have.
 3,Ding Dong Ditch,3,Main Deck,,"When gained, put in opponent's discard pile. Does nothing."
 3,New Me,2,Main Deck,,"Erase a card from your hand, discard pile, and shop. Reduce 2 Suspicion."
 4,NAME CARD,2,Main Deck,,"Erase a card from your play area, inflict 2 Suspicion."
