@@ -2,7 +2,7 @@ count,name,cost,alliance,img,description
 5,Mild Curiosity,0,Baseline Deck,huh_neat.jpg,Gain 1 Intrigue.
 2,Mob Justice,0,Baseline Deck,the_mob_song.jpg,Inflict 1 Suspicion.
 1,Sacrifice,0,Cultist - Baseline Deck,,"Erase a card from your hand, gain Intrigue equal to its cost."
-1,Change Methods,0,Cultist - Baseline Deck,,"Discard your hand, draw an equal amount of cards, plus one."
+1,Change Methods,0,Cultist - Baseline Deck,,"Gain 2 Intrigue."
 1,Expendable Workforce,0,Cultist - Baseline Deck,,Erase 3 shop cards.
 1,Black Hole Sun,10,Cultist - Influence Deck,bh.jpg,"Win the game. If this card is Erased, return it to the Main Deck and shuffle it."
 2,A Small Cost,2,Cultist - Influence Deck,rat_snake.jpg,"Gain 2 Influence, erase a card in your hand."
@@ -13,11 +13,10 @@ count,name,cost,alliance,img,description
 1,Feign Ignorance,0,Fly - Baseline Deck,feign-ignorance.webp,"Erase a shop card, reduce 2 Suspicion."
 2,Baseless Rumor,3,Fly - Influence Deck,infowars.jpg,Inflict 1 Suspicion for each time you've played Baseless Rumor.
 3,Investing in Yourself,3,Fly - Influence Deck,spa.jpg,"Erase a card in your play area, draw a card."
-2,He Who Smelt It,3,Fly - Influence Deck,,Reduce and Inflict 1 Suspicion for every 5 Suspicion you have.
 3,Last Affairs,4,Fly - Influence Deck,,Draw a card. Draw another for every 5 suspicion you have.
 4,Small Favor,1,Fly - Influence Deck,,"Gain 3 Intrigue, erase this card."
-1,Move On,0,Ghost - Baseline Deck,ddd-7.webp,"Draw two cards, OR, Erase your hand: If you have no cards, win the game."
-2,Earthly Affairs,0,Ghost - Baseline Deck,,"Gain 2 Intrigue. If erased, draw 2 cards."
+1,Move On,0,Ghost - Baseline Deck,ddd-7.webp,"Draw two cards, OR, Erase your hand and this card: If you have no cards, win the game."
+2,Earthly Affairs,0,Ghost - Baseline Deck,,"Draw a card, reduce 1 Suspicion. If erased, draw 2 cards."
 4,Fleeting Memories,1,Ghost - Influence Deck,,"Draw 2 cards, erase this card."
 6,Unusually Uninteresting,3,Main Deck,sonic_neat.jpg,Gain 2 Intrigue.
 4,Overtime,4,Main Deck,overtime_jjk.jpg,Draw 2 Cards.
@@ -36,8 +35,7 @@ count,name,cost,alliance,img,description
 3,Ding Dong Ditch,3,Main Deck,,"When gained, put in opponent's discard pile. Does nothing."
 3,New Me,2,Main Deck,,"Erase a card from your hand, discard pile, and shop. Reduce 2 Suspicion."
 4,NAME CARD,2,Main Deck,,"Erase a card from your play area, inflict 2 Suspicion."
-1,Keep Talking,5,Main Deck,,"Every time you play a card this turn, Reduce 1 Suspicion."
 3,TO NAME,4,Main Deck,,Inflict 3 Suspicion.
 1,Whatever You Want Me To Be,0,Shapeshifter - Baseline Deck,,"Gain 1 Intrigue, reduce Suspicion by 1, and draw a card."
-1,Misplaced Blame,0,Shapeshifter - Baseline Deck,he_coordination.webp,"Erase your play area, Inflict 2 Suspicion for each card erased."
+1,Misplaced Blame,0,Shapeshifter - Baseline Deck,he_coordination.webp,"Erase any amount of cards in your play area, inflict 1 Suspicion for each card erased."
 1,Learn and Adapt,0,Shapeshifter - Baseline Deck,lets-go-gambling.webp,Erase a card in your hand. Gain the top card of the main deck.
