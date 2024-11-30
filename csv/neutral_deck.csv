@@ -2,7 +2,7 @@ count,name,cost,alliance,img,description
 5,Mild Curiosity,0,Baseline Deck,huh_neat.jpg,Gain 1 Intrigue.
 2,Mob Justice,0,Baseline Deck,the_mob_song.jpg,Inflict 1 Suspicion.
 1,Sacrifice,0,Cultist - Baseline Deck,,"Erase a card from your hand, gain Intrigue equal to its cost."
-1,Change Methods,0,Cultist - Baseline Deck,,"Gain 2 Intrigue."
+1,Change Methods,0,Cultist - Baseline Deck,,Gain 2 Intrigue.
 1,Expendable Workforce,0,Cultist - Baseline Deck,,Erase 3 shop cards.
 1,Black Hole Sun,10,Cultist - Influence Deck,bh.jpg,"Win the game. If this card is Erased, return it to the Main Deck and shuffle it."
 2,A Small Cost,2,Cultist - Influence Deck,rat_snake.jpg,"Gain 2 Influence, erase a card in your hand."
@@ -39,3 +39,4 @@ count,name,cost,alliance,img,description
 1,Whatever You Want Me To Be,0,Shapeshifter - Baseline Deck,,"Gain 1 Intrigue, reduce Suspicion by 1, and draw a card."
 1,Misplaced Blame,0,Shapeshifter - Baseline Deck,he_coordination.webp,"Erase any amount of cards in your play area, inflict 1 Suspicion for each card erased."
 1,Learn and Adapt,0,Shapeshifter - Baseline Deck,lets-go-gambling.webp,Erase a card in your hand. Gain the top card of the main deck.
+3,Quick Thinking,4,Shapeshifter - Influence Deck,,"Draw 2 cards, erase a card in your hand."
