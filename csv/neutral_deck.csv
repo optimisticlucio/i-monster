@@ -1,43 +1,36 @@
 count,name,cost,alliance,img,description
-5,Mild Curiosity,0,Baseline Deck,huh_neat.jpg,Gain 1 Intrigue.
-2,Mob Justice,0,Baseline Deck,the_mob_song.jpg,Inflict 1 Suspicion.
+4,Mild Curiosity,1,Baseline Deck,huh_neat.jpg,Gain 1 Intrigue.
+2,Mob Justice,1,Baseline Deck,the_mob_song.jpg,Inflict 1 Suspicion.
 1,Sacrifice,0,Cultist - Baseline Deck,,"Erase a card from your hand, gain Intrigue equal to its cost."
-1,Change Methods,0,Cultist - Baseline Deck,,Gain 2 Intrigue.
 1,Expendable Workforce,0,Cultist - Baseline Deck,,Erase 3 shop cards.
 1,Black Hole Sun,10,Cultist - Influence Deck,bh.jpg,"Win the game. If this card is Erased, return it to the Main Deck and shuffle it."
 2,A Small Cost,2,Cultist - Influence Deck,rat_snake.jpg,"Gain 2 Influence, erase a card in your hand."
-2,Rich Get Richer,5,Cultist - Influence Deck,monopoly_man.webp,"Gain 1 Influence for every two cards in your play area, not including this one."
-3,Look the Other Way,2,Cultist - Influence Deck,distraction.jpg,"Erase a shop card, draw a card."
-4,Keep Looking,2,Cultist - Influence Deck,this_is_worthless.jpg,"When gained, erase this card and all shop cards."
-2,Daily Commute,0,Fly - Baseline Deck,jjk_train.jpg,"Gain 1 Intrigue, draw a card."
-1,Feign Ignorance,0,Fly - Baseline Deck,feign-ignorance.webp,"Erase a shop card, reduce 2 Suspicion."
-2,Baseless Rumor,3,Fly - Influence Deck,infowars.jpg,Inflict 1 Suspicion for each time you've played Baseless Rumor.
-3,Investing in Yourself,3,Fly - Influence Deck,spa.jpg,"Erase a card in your play area, draw a card."
-3,Last Affairs,4,Fly - Influence Deck,,Draw a card. Draw another for every 5 suspicion you have.
-4,Small Favor,1,Fly - Influence Deck,,"Gain 3 Intrigue, erase this card."
+2,Look the Other Way,2,Cultist - Influence Deck,distraction.jpg,"Erase a shop card, draw a card."
+3,Keep Looking,2,Cultist - Influence Deck,this_is_worthless.jpg,"When gained, erase this card and all shop cards."
+1,Daily Commute,0,Fly - Baseline Deck,jjk_train.jpg,"Gain 1 Intrigue, draw a card."
+1,Feign Ignorance,0,Fly - Baseline Deck,feign-ignorance.webp,"Erase a shop card, inflict 1 Suspicion."
+2,Baseless Rumor,4,Fly - Influence Deck,infowars.jpg,Inflict 1 Suspicion for each time you've played Baseless Rumor.
+2,Investing in Yourself,3,Fly - Influence Deck,spa.jpg,"Erase a card in your play area, draw a card."
+3,Small Favor,1,Fly - Influence Deck,,"Gain 3 Intrigue, erase this card."
 1,Move On,0,Ghost - Baseline Deck,ddd-7.webp,"Draw two cards, OR, Erase your hand and this card: If you have no cards, win the game."
-2,Earthly Affairs,0,Ghost - Baseline Deck,,"Draw a card, reduce 1 Suspicion. If erased, draw 2 cards."
-4,Fleeting Memories,1,Ghost - Influence Deck,,"Draw 2 cards, erase this card."
-3,Ding Dong Ditch,3,Ghost - Influence Deck,,"When gained, put in opponent's discard pile. Does nothing."
-6,Unusually Uninteresting,3,Main Deck,sonic_neat.jpg,Gain 2 Intrigue.
+1,Earthly Affairs,0,Ghost - Baseline Deck,,"Draw a card, reduce 1 Suspicion. If erased, draw 2 cards."
+2,Fleeting Memories,1,Ghost - Influence Deck,,"Draw 2 cards, erase this card."
+2,Ding Dong Ditch,3,Ghost - Influence Deck,,"When gained, put in opponent's discard pile. Does nothing."
+5,Unusually Uninteresting,3,Main Deck,sonic_neat.jpg,Gain 2 Intrigue.
 4,Overtime,4,Main Deck,overtime_jjk.jpg,Draw 2 Cards.
-5,Calm Afternoon,4,Main Deck,lofi_hiphop.jpg,"Gain 1 Intrigue, draw a card."
+3,Calm Afternoon,4,Main Deck,lofi_hiphop.jpg,"Gain 1 Intrigue, draw a card."
 3,A Moment of Solace,2,Main Deck,heh_women.jpg,Draw 2 cards. Opponent draws a card.
-3,Wonder of Nature,5,Main Deck,infinite_corridor.webp,Gain 3 Intrigue.
-2,Risky Move,2,Main Deck,darkwing_duck.png,Gain 3 Intrigue and 3 Suspicion.
+2,Wonder of Nature,5,Main Deck,infinite_corridor.webp,Gain 3 Intrigue.
+2,Risky Move,2,Main Deck,darkwing_duck.png,Gain 3 Intrigue and 2 Suspicion.
 2,Maximum Effort,6,Main Deck,okarun_dash.png,Draw 3 cards.
-3,Reconsider,2,Main Deck,yoru_stupid.webp,"Draw 2 cards, discard a card."
-3,Keep Up Appearances,3,Main Deck,two_faced_creep.jpg,Reduce 3 Suspicion.
-2,Bold Move,4,Main Deck,this_is_fine.jpg,"All Suspicion raises by 2, draw two cards."
-1,Paranoia,6,Main Deck,stress_dd.jpg,"Every time you play a card this turn, Inflict 1 Suspicion."
-2,Believe in Magic,4,Main Deck,arcanes1e3.png,Gain 1 Intrigue for every 4 Suspicion you have.
-3,New Me,2,Main Deck,,"Erase a card from your hand, discard pile, and shop. Reduce 2 Suspicion."
-4,NAME CARD,2,Main Deck,,"Erase a card from your play area, inflict 2 Suspicion."
+2,Reconsider,2,Main Deck,yoru_stupid.webp,"Draw 2 cards, discard a card."
+1,Paranoia,8,Main Deck,stress_dd.jpg,"Every time you play a card this turn, Inflict 1 Suspicion."
+3,New Me,2,Main Deck,,"Erase a card from your hand, discard pile, and shop. Inflict 1 Suspicion."
+3,NAME CARD,4,Main Deck,,"Erase a card from your play area, inflict 2 Suspicion."
 3,TO NAME,4,Main Deck,,Inflict 3 Suspicion.
-1,Whatever You Want Me To Be,0,Shapeshifter - Baseline Deck,,"Gain 1 Intrigue, reduce Suspicion by 1, and draw a card."
-1,Misplaced Blame,0,Shapeshifter - Baseline Deck,he_coordination.webp,"Erase any amount of cards in your play area, inflict 1 Suspicion for each card erased."
-1,Learn and Adapt,0,Shapeshifter - Baseline Deck,lets-go-gambling.webp,Erase a card in your hand. Gain the top card of the main deck.
+1,Misplaced Blame,0,Shapeshifter - Baseline Deck,he_coordination.webp,"Draw a card, OR, Erase any amount of cards in your play area, inflict 1 Suspicion for each card erased."
+1,Learn and Adapt,0,Shapeshifter - Baseline Deck,lets-go-gambling.webp,"Erase a card in your hand, place the top card of the main deck in your hand."
 2,You're Overthinking Things,2,Shapeshifter - Influence Deck,,"Discard your play area, reduce 2 Suspicion."
-4,Space Out,1,Shapeshifter - Influence Deck,still_watching.jpg,Draw a card.
-3,Quick Thinking,4,Shapeshifter - Influence Deck,,"Draw 2 cards, erase a card in your hand."
-3,Sincerest Flattery,4,Shapeshifter - Influence Deck,robert_kyle.jpg,Copy the effect of a card in your play area.
+3,Space Out,1,Shapeshifter - Influence Deck,still_watching.jpg,Draw a card.
+1,Quick Thinking,4,Shapeshifter - Influence Deck,,"Draw 2 cards, erase a card in your hand."
+1,Sincerest Flattery,4,Shapeshifter - Influence Deck,robert_kyle.jpg,Copy the effect of a card in your play area.
