@@ -28,7 +28,7 @@ count,name,cost,alliance,img,description
 3,New Me,2,Main Deck,,"Erase a card from your hand, discard pile, and shop. Inflict 1 Suspicion."
 3,NAME CARD,4,Main Deck,,"Erase a card from your play area, inflict 2 Suspicion."
 3,TO NAME,4,Main Deck,,Inflict 3 Suspicion.
-1,Misplaced Blame,0,Shapeshifter - Baseline Deck,he_coordination.webp,"Draw a card, OR, Erase any amount of cards in your play area, inflict 1 Suspicion for each card erased."
+1,Misplaced Blame,0,Shapeshifter - Baseline Deck,he_coordination.webp,Inflict 1 Suspicion. Erase a card in your play area to repeat this effect; you may do this more than once.
 1,Learn and Adapt,0,Shapeshifter - Baseline Deck,lets-go-gambling.webp,"Erase a card in your hand, place the top card of the main deck in your hand."
 2,You're Overthinking Things,2,Shapeshifter - Influence Deck,,"Discard your play area, reduce 2 Suspicion."
 3,Space Out,1,Shapeshifter - Influence Deck,still_watching.jpg,Draw a card.
