@@ -11,16 +11,16 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
-    - name: Export main deck
-      run: |
-        .\nandeck\nanDECK.exe .\nandeck\decks\card-deck.txt /exec
-      shell: cmd
-
     - name: Export characters
       run: |
         .\nandeck\nanDECK.exe .\nandeck\decks\character-deck.txt /exec
       shell: cmd
 
+    - name: Export main deck
+      run: |
+        .\nandeck\nanDECK.exe .\nandeck\decks\card-deck.txt /exec
+      shell: cmd
+      
     - name: Upload Export Folder
       uses: actions/upload-artifact@v4
       with:

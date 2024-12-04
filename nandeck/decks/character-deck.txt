@@ -10,4 +10,4 @@ TEXT=,"Modifier: [MODIFIER]",0.2,2.5,9.8,2,LEFT,WWTOP
 TEXT=,"Ability costs [ABILITY]",0.2,4.5,9.8,1.5,LEFT,WWTOP
 ENDVISUAL
 
-DISPLAY="export/characters{ֲ§}.png",,,5x7
+DISPLAY="../export/characters{ֲ§}.png",,,5x7
