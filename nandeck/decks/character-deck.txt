@@ -1,4 +1,4 @@
-LINK=C:\Users\fefel\Documents\GitHub\i-monster\csv\characters.csv
+LINK=..\csv\characters.csv
 
 cardsize=10,6
 VISUAL=HV, 10, 10
