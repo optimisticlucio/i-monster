@@ -11,9 +11,14 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
-    - name: Run nanDECK
+    - name: Export main deck
       run: |
-        .\nandeck\nanDECK.exe .\nandeck\card-deck.txt /exec
+        .\nandeck\nanDECK.exe .\nandeck\decks\card-deck.txt /exec
+      shell: cmd
+
+    - name: Export characters
+      run: |
+        .\nandeck\nanDECK.exe .\nandeck\decks\character-deck.txt /exec
       shell: cmd
 
     - name: Upload Export Folder
