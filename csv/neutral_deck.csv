@@ -20,24 +20,24 @@ count,name,cost,alliance,img,description
 1,Restless Coffin,0,Ghost - Baseline Deck,wow_ghost.webp,Copy the effect of a card in the Graveyard. Permanently remove that card from the game.
 2,Fleeting Memories,1,Ghost - Influence Deck,,"Draw 2 cards, erase this card."
 2,Ding Dong Ditch,3,Ghost - Influence Deck,,"When gained, put in opponent's discard pile. Does nothing."
-2,Grave Robbery,4,Ghost - Influence Deck,graverobber.webp,Gain a card from the Graveyard for its regular cost. Self-inflict 1 suspicion.
+2,Grave Robbery,3,Ghost - Influence Deck,graverobber.webp,Gain a card from the Graveyard for its regular cost. Self-inflict 1 suspicion.
 2,Willing Posession,3,Ghost - Influence Deck,,"Reveal a random card from the Graveyard, copy its effect."
 3,Hit Me,2,Leprechaun - Influence Deck,,"Reroll the last die you've rolled this game, earn its new result and effects."
-3,Sliding Hands of Fate,2,Leprechaun - Influence Deck,,You may add +1 to your next roll.
+3,Sliding Hands of Fate,2,Leprechaun - Influence Deck,,"After you roll a die, you may play this card to add +1 to the roll."
 2,Lie Your Ass Off,3,Leprechaun - Influence Deck,,"Name a number - X. Roll the Die. If the die's result > X, inflict X Suspicion. Else, inflict it on yourself."
 2,Begging,2,Leprechaun - Influence Deck,everytime.jpg,"Roll the die. If you got a 5 or 6, gain 6 goodwill. Otherwise, that sucks."
 3,Dumpster Diving,5,Leprechaun - Influence Deck,,"Roll the die, gain cards from the top of the main deck equal to your result. Erase this card."
 7,Social Butterfly,3,Main Deck,sonic_neat.jpg,Gain 2 Goodwill.
-3,Keep Moving,5,Main Deck,overtime_jjk.jpg,Draw 2 Cards.
+2,Keep Moving,5,Main Deck,overtime_jjk.jpg,Draw 2 Cards.
 2,Calm Afternoon,4,Main Deck,lofi_hiphop.jpg,"Gain 1 Goodwill, draw a card."
-3,A Moment of Solace,2,Main Deck,heh_women.jpg,Draw 2 cards. Opponent draws a card.
+4,A Moment of Solace,2,Main Deck,heh_women.jpg,Draw 2 cards. Opponent draws a card.
 2,Wonder of Nature,5,Main Deck,infinite_corridor.webp,Gain 3 Goodwill.
 2,Risky Move,2,Main Deck,darkwing_duck.png,Gain 3 Goodwill and 2 Suspicion.
-2,Maximum Effort,6,Main Deck,okarun_dash.png,Draw 3 cards.
+1,Maximum Effort,6,Main Deck,okarun_dash.png,Draw 3 cards.
 2,Reconsider,2,Main Deck,yoru_stupid.webp,"Draw 2 cards, discard a card."
 2,"""I've Heard That..""",5,Main Deck,gossip.jpg,"Every time you draw a card this turn, Inflict 1 Suspicion."
 3,Planted Evidence,4,Main Deck,,"Erase a card from your play area, inflict 2 Suspicion."
-2,Heartfelt Plea,4,Main Deck,,Inflict 3 Suspicion.
+4,Heartfelt Plea,4,Main Deck,,Inflict 3 Suspicion.
 1,Rile Them Up,9,Main Deck,stress_dd.jpg,Inflict 4 Suspicion.
 3,Yapping,3,Main Deck,,"Inflict 2 suspicion. If the suspicion gauge is 5+ against you, inflict 4."
 1,Misplaced Blame,0,Shapeshifter - Baseline Deck,he_coordination.webp,Inflict 1 Suspicion. Erase a card in your play area to repeat this effect; you may do this more than once.
