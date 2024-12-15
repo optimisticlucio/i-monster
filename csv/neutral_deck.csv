@@ -17,7 +17,7 @@ count,name,cost,alliance,img,description
 2,Investing in Yourself,3,Fly - Influence Deck,spa.jpg,"Erase a card in your play area, draw a card."
 3,Small Favor,1,Fly - Influence Deck,,"Gain 3 Goodwill, erase this card."
 1,Move On,0,Ghost - Baseline Deck,ddd-7.webp,"Erase your hand and this card: If you have no cards, win the game. This card can be gained by the Ghost from the Graveyard by inflicting 5 suspicion on themselves."
-1,Restless Coffin,0,Ghost - Baseline Deck,wow_ghost.webp,Copy the effect of a card in the Graveyard. Permanently remove that card from the game.
+1,Restless Coffin,0,Ghost - Baseline Deck,wow_ghost.webp,Copy the effect of a random card in the Graveyard.
 2,Fleeting Memories,1,Ghost - Influence Deck,,"Draw 2 cards, erase this card."
 2,Ding Dong Ditch,3,Ghost - Influence Deck,,"When gained, put in opponent's discard pile. Does nothing."
 2,Grave Robbery,3,Ghost - Influence Deck,graverobber.webp,Gain a card from the Graveyard for its regular cost. Self-inflict 1 suspicion.
