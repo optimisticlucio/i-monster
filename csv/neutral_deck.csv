@@ -4,14 +4,13 @@ count,name,cost,alliance,img,description
 2,Spread Rumors,1,Baseline Deck,the_mob_song.jpg,Inflict 1 Suspicion.
 1,Sacrifice,0,Cultist - Baseline Deck,,"Erase a card from your hand, gain Goodwill equal to its cost."
 1,Charisma,0,Cultist - Baseline Deck,,Gain 2 Goodwill.
-2,A Small Cost,2,Cultist - Influence Deck,rat_snake.jpg,"Gain 2 Influence, erase a card in your hand."
+2,A Small Cost,2,Cultist - Influence Deck,rat_snake.jpg,"Gain 2 Goodwill, erase a card in your hand."
 2,Look the Other Way,2,Cultist - Influence Deck,distraction.jpg,"Erase a shop card, draw a card."
-3,Keep Looking,2,Cultist - Influence Deck,this_is_worthless.jpg,"When gained, erase this card and all shop cards."
-1,Black Hole Sun,18,Cultist - Sacrificial Deck,bh.jpg,Win the game.
-2,Mountain of Corpses,9,Cultist - Sacrificial Deck,smilingbodies.jpg,Draw 3 cards.
-2,Eternal Youth,7,Cultist - Sacrificial Deck,doriangray.webp,Inflict 3 Suspicion. Gain 4 Goodwill.
+1,Black Hole Sun,16,Cultist - Sacrificial Deck,bh.jpg,Win the game.
+2,Mountain of Corpses,7,Cultist - Sacrificial Deck,smilingbodies.jpg,Draw 3 cards.
+2,Eternal Youth,5,Cultist - Sacrificial Deck,doriangray.webp,Inflict 2 Suspicion. Gain 3 Goodwill.
 2,Forbidden Knowledge,5,Cultist - Sacrificial Deck,evildead_necronomicon.webp,Reveal the top three cards of the main deck. You may gain one. Erase the remainder.
-2,Homonculus,4,Cultist - Sacrificial Deck,sloth.webp,Copy the effect of a card in your play area.
+2,Homonculus,5,Cultist - Sacrificial Deck,sloth.webp,Copy the effect of a card in your play area.
 2,Daily Commute,0,Fly - Baseline Deck,jjk_train.jpg,"Gain 1 Goodwill, draw a card."
 2,Repeated Lie,4,Fly - Influence Deck,infowars.jpg,Inflict 1 Suspicion for each time you've played Repeated Lie.
 2,Investing in Yourself,3,Fly - Influence Deck,spa.jpg,"Erase a card in your play area, draw a card."
