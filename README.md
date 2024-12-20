@@ -45,5 +45,5 @@ If there's conflict between the rules and the card effects, follow the card effe
 ## Keywords
 
 - **Erase:** Remove a card from the game. It does not matter where you place it, it will not return to this match.
-- **Discard:** Place a card into your discard pile.
+- **Discard:** Place a card into your discard pile. 
 - **Inflict [x] Suspicion:** Move the Suspicion marker [x] spaces away from you/towards your opponent.
