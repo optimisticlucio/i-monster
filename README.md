@@ -15,9 +15,10 @@ A 2-player deckbuilder where at the start of the game, each player picks a chara
 ## Characters
 
 - **Fly**: A person with a fly for a head. No particular goal.
-- **Cultist**: Incentivized goal is to gain a specific expensive card, "Black Hole Sun", that wins the game.
-- **Shapeshifter**: Incentivized goal is to play a lot of cards at once.
-- **Ghost**: Incentivized goal is to remove all cards from the deck.
+- **Cultist**: Charismatic influencer with a sinister plot. Trying to get an expensive card, "Black Hole Sun," that wins the game.
+- **Shapeshifter**: Everything and everyone all at once. Currently no goal.
+- **Ghost**: Tortured soul seeking relief. Goal is to lose all the cards in their deck.
+- **Leprechaun**: Gambling addiction manifest. Goal is to roll a lot of dice.
 
 ## Setup
 
